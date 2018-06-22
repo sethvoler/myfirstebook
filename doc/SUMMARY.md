@@ -6,7 +6,7 @@
   * [第一节](section1/section1.1.md)
   * [第二节](section1/section1.2.md)
 * [第二章](section2/README.md)
-* [第三章](section2/section3.1.md)
+* [第三章](section3/section3.1.md)
 
 
 
